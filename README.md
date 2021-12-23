@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @zGenesiis
+- 👀 I’m interested in almost everything
+- 🌱 I’m currently learning C
+- 💞️ I’m looking to collaborate on my own projects, srry
