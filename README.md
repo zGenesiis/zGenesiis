@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @zGenesiis
-- 👀 I’m interested in almost everything
-- 🌱 I’m currently developing my js skills
-- 💞️ I’m looking to collaborate on my own projects, srry
+Hi, I'm Waldemar Renato, I'm a future computer engineer.
